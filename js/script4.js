@@ -1,4 +1,4 @@
-//Simulador de presupuestos para estudio contable
+// Simulador de presupuestos para estudio contable
 // declaro los tres servicios a cotizar y los costos x impuesto liquidado
 
 const servicioImpositivo = "Impuestos";

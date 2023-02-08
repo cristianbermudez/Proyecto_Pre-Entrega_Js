@@ -18,54 +18,54 @@ select {
     display: none;
 }
 
-#hidden_div_Sociedades{
+#hidden_div_Sociedades {
     display: none;
 }
 
-#hidden_div_Cotizacion{
+#hidden_div_Cotizacion {
     display: none;
 }
 
-#hidden_div_Historial{
+#hidden_div_Historial {
     display: none;
 }
 
-#hidden_div_HistorialVaciado{
+#hidden_div_HistorialVaciado {
     display: none;
 }
 
-#hidden_div_NoHayHistorial{
+#hidden_div_NoHayHistorial {
     display: none;
 }
 
-#btnHistorial{
+#btnHistorial {
     display: none;
 }
 
-#btnBorrarHistorial{
-    display: none; 
-}
-
-#btnCotizarImpuestos{
+#btnBorrarHistorial {
     display: none;
 }
 
-#btnCotizarContabilidad{
+#btnCotizarImpuestos {
     display: none;
 }
 
-#btnCotizarSociedades{
+#btnCotizarContabilidad {
     display: none;
 }
 
-#SRL-Urgente{
+#btnCotizarSociedades {
     display: none;
 }
 
-#SA-Urgente{
+#SRL-Urgente {
     display: none;
 }
 
-#SAS-Urgente{
+#SA-Urgente {
+    display: none;
+}
+
+#SAS-Urgente {
     display: none;
 }
